@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">fToCConversionApp</string>
+    <string name="button_convert">Convert</string>
+    <string name="enter_text">Please enter a temperature in Fahrenheit.</string>
+</resources>
